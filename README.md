@@ -3,7 +3,7 @@ Financial Transaction Management
 
 
 Introduction
-
+ 
     This document provides a step-by-step guide to setting up and running the Financial Transaction Management System.
 The system manages financial transactions, reconciles accounts, and generates financial reports using Oracle SQL and PL/SQL.
 
